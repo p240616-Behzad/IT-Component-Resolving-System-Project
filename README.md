@@ -4,8 +4,8 @@ FAST NUCES - Software Design Analysis Project
 
 GROUP MEMBERS
 
-HAZIQA EIMAN (24P-0594) - Class Diagram & Compilation
-BEHZAD TARIQ (24P-0616) - UML Diagram & UML Specification
+HAZIQA EIMAN (24P-0594) - GUI 
+BEHZAD TARIQ (24P-0616) - JAVA code 
 HALEEMA SADIA (24P-0609) - Elicitation, Analysis, FR, NFR
 
 
