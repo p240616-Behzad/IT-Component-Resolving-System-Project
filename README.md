@@ -5,7 +5,9 @@ FAST NUCES - Software Design Analysis Project
 GROUP MEMBERS
 
 HAZIQA EIMAN (24P-0594) - JAVA + GUI code + Reflection Video
+
 BEHZAD TARIQ (24P-0616) - JAVA + GUI code + Demo Video
+
 HALEEMA SADIA (24P-0609) - 
 
 HOW TO COMPILE AND RUN
